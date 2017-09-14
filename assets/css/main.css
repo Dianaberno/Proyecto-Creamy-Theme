@@ -4,6 +4,15 @@
     /*outline: solid red;*/
 }
 
+header .navbar {
+    background-color: #EE0D4B;
+}
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #F3E2A9;
+}
+
 .hero-section {
     background-image: url(../img/creamy.jpg);
     width: 100%;
@@ -39,8 +48,8 @@
     background-color: #F3E2A9;
     width: 100%;
     padding-top: 84px;
-    padding-bottom: 555px;
-    height: 500px;
+    padding-bottom: 560px;
+    height: 100px;
 }
 
 .informacion {
@@ -50,11 +59,59 @@
 .informacion h3 {
     font-size: 3.2em;
     letter-spacing: 2px;
-    color: red;
+    color: #EE0D4B;
 }
 
 .informacion p {
     font-size: 1.0em;
     letter-spacing: 2px;
-    color: red;
+    color: #EE0D4B;
+}
+
+#segundo {
+    background-color: #EE0D4B;
+    width: 100%;
+    padding-top: 54px;
+    padding-bottom: 520px;
+    height: 100px;
+}
+
+.informacion1 {
+    padding: 0px 30px;
+}
+
+.informacion1 h3 {
+    font-size: 3.2em;
+    letter-spacing: 2px;
+    color: #F3E2A9;
+}
+
+.informacion1 p {
+    font-size: 1.0em;
+    letter-spacing: 2px;
+    color: #F3E2A9;
+}
+
+#tercero {
+    background-color: #F3E2A9;
+    width: 100%;
+    padding-top: 54px;
+    padding-bottom: 520px;
+    height: 100px;
+}
+
+.informacion2 {
+    padding: 0px 30px;
+}
+
+.informacion2 h3 {
+    font-size: 3.2em;
+    letter-spacing: 2px;
+    color: #EE0D4B;
+}
+
+.informacion2 p {
+    font-size: 1.0em;
+    letter-spacing: 2px;
+    color: #EE0D4B;
 }
